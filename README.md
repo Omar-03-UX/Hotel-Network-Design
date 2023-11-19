@@ -42,7 +42,6 @@ Set the violation mode to shutdown.
 Step 10: Documentation
 
 Document the network design, configurations, and any troubleshooting steps for future reference.
-This concise and structured set of steps can be added to your portfolio on GitHub, providing a clear overview of your network design and implementation skills.
 <br />
 
 <h2>Languages and Utilities Used</h2>
